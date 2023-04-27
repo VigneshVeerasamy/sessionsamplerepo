@@ -24,6 +24,11 @@ This is used get the current status of current git repo in working directory.
 This creates a new brach with given name having files of parent branch.
 - `git branch`
 Prints the list of branch.
+- `git checkout branchname`
+This jumps to the specified branch.
+- `git pull`
+This gets the latest file/code changes from github/portal to local machine of current working branch.
+
 
 ### note:
 we can keep any name to branch.
