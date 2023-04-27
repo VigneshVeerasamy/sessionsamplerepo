@@ -33,8 +33,6 @@ This gets the latest file/code changes from github/portal of that specific branc
 - `git commit -am "message"`
 This adds and then commits the changes to the git repo so that it can be pushed to cloud.
 
-
-
 ### note:
 we can keep any name to branch.
 
