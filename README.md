@@ -18,7 +18,8 @@ This pushes the commits to the github / git hosting platform.
 This gives the root branch name as **main** 
 - `git add origin repourl`
 This adds the cloud url to the local git repo to push the commits.
-
+- `git status`
+This is used get the current status of current git repo in working directory.
 
 ### note:
 we can keep any name to branch.
