@@ -20,6 +20,10 @@ This gives the root branch name as **main**
 This adds the cloud url to the local git repo to push the commits.
 - `git status`
 This is used get the current status of current git repo in working directory.
+- `git checkout -b branchname`
+This creates a new brach with given name having files of parent branch.
+- `git branch`
+Prints the list of branch.
 
 ### note:
 we can keep any name to branch.
