@@ -1,16 +1,26 @@
 # sessionsample
 
-A new Flutter project.
+Example demonstrates list of commands we use in git.
 
-## Getting Started
+## List of commands we used
 
-This project is a starting point for a Flutter application.
+- `git clone repourl`
+This clones the git repo to the local machine
+- `git init`
+This makes git repo for the current folder / working directory.
+- `git add filename/direct/.`
+This adds the files/direc to the git repo to make a commit after it.
+- `git commit -m "message"`
+This commits the changes to the git repo so that it can be pushed to cloud.
+- `git push`
+This pushes the commits to the github / git hosting platform.
+- `git branch -m main`
+This gives the root branch name as **main** 
+- `git add origin repourl`
+This adds the cloud url to the local git repo to push the commits.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### note:
+we can keep any name to branch.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
