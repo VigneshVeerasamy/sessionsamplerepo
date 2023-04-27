@@ -28,7 +28,10 @@ Prints the list of branch.
 This jumps to the specified branch.
 - `git pull`
 This gets the latest file/code changes from github/portal to local machine of current working branch.
-
+- `git pull -r origin branchname`
+This gets the latest file/code changes from github/portal of that specific branch to local machine of current working branch.
+- `git commit -am "message"`
+This adds and then commits the changes to the git repo so that it can be pushed to cloud.
 
 ### note:
 we can keep any name to branch.
